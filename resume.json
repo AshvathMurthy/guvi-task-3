@@ -1,0 +1,57 @@
+{
+  "basics": {
+    "name": "ash",
+    "label": "Programmer",
+    "image": "",
+    "email": "ashvathlevine23@gmail.com",
+    "phone": "(9144)22652136 ",
+    "location": {
+      "address": "7 ravi street",
+      "postalCode": "600044",
+      "city": "chennai",
+      "countryCode": "+91",
+      },
+  "work": [{
+    "name": "foxconn",
+    "position": "testing",
+    "startDate": "2018-04-13",
+    "endDate": "2019-05-06",
+    "summary": "Description…",
+  ]
+  }],
+  "education": [{
+    "institution": "University",
+     "area": "E.C.E",
+    "studyType": "Bachelor",
+    "startDate": "2013-06-05",
+    "endDate": "2017-05-01",
+    "score": "6.5",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+ 
+  "certificates": [{
+    "name": "FULL STACK DEVELOPER",
+    "date": "2021-08-30",
+    "issuer": "GUVI",
+     }],
+
+  "skills": [{
+    "name": "Web Development",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Native speaker"
+  }],
+  "interests": [{
+    "name": "BADMINTON",
+    }],
+  
+}
